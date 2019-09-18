@@ -1,4 +1,4 @@
-# Next Boilerplate (🇰🇷[한국어](./README.ko.md))
+# Next Boilerplate (🇰🇷한국어)
 
 Light and minimal Next.js boilerplate with Typescript, Redux, Styled Components, etc
 
