@@ -21,14 +21,14 @@ Check it [Branch](https://github.com/qvil/next-boilerplate/branches). Based on t
 
 - master: Basic, Plain
 - feature/xx: If you want apply feature, Merge feature branch to master
-- full-feature: If you want use the all features, Check out this branch.
+- feature/all: If you want use the all features, Check out this branch.
 
 ### Example
 
 #### 1. Merge branch
 
 ```
-git merge origin/feature/typescript
+git merge remotes/origin/feature/all
 ```
 
 #### 2. Install
