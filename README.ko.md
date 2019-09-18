@@ -21,7 +21,7 @@ Check it [Branch](https://github.com/qvil/next-boilerplate/branches). Based on t
 
 - master: Basic, Plain
 - feature/xx: If you want apply feature, Merge feature branch to master
-- full-feature: If you want use the all features, Check out this branch.
+- all-features: If you want use the all features, Check out this branch.
 
 ### Example
 
