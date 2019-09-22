@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>Hello World</div>;
+  return <div>process.env.customKey: {process.env.customKey}</div>;
 };
 
 export default Home;
