@@ -23,6 +23,7 @@ Check it [Branch](https://github.com/qvil/next-boilerplate/branches). Based on t
 - feature/typescript
 - feature/styled-components
 - feature/environment_variables
+- feature/cookie
 - feature/all: If you want use the all features, Check out this branch.
 
 ### Example
