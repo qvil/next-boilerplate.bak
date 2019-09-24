@@ -1,46 +1,18 @@
-# Next Boilerplate (🇰🇷[한국어](./README.ko.md))
+# Next Boilerplate
 
-Light and minimal Next.js boilerplate with Typescript, Redux, Styled Components, etc
-
-## About & Goal
-
-Diffrence from other next.js boilerplate is light and minimal boilerplate.
-
-You can choose only the feature what you want.
+Super power Next.js boilerplate with Typescript, Styled-components, Redux, etc.
 
 ## Prerequisites
 
 - Node.js >= 10.x (Recommended the latest version)
-- **Git basic knowledge**
 
-## How to use
-
-Check it [Branch](https://github.com/qvil/next-boilerplate/branches). Based on the concept merge from branch you want.
-
-### Branch List
-
-- master: Basic, Plain
-- feature/typescript
-- feature/styled-components
-- feature/environment_variables
-- feature/cookie
-- feature/all: If you want use the all features, Check out this branch.
-
-### Example
-
-#### 1. Merge branch
-
-```
-git merge remotes/origin/feature/all
-```
-
-#### 2. Install
+## Install
 
 ```
 npm install
 ```
 
-#### 3. Development
+## Development
 
 ```
 npm run dev
